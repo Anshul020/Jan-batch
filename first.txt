@@ -2,3 +2,4 @@ Today is Mock
 Day is Friday
 year is 2024
 Date is 12
+Tommorow is SatudarDay
