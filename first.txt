@@ -1,4 +1,5 @@
 Today is Mock 
 Day is Friday
+we are Learning Full Stack 
 year is 2024
 Date is 12
